@@ -1,0 +1,11 @@
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\bin\Release\ContourGui.exe
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\bin\Release\ContourGui.pdb
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\bin\Release\CreateContour.dll
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\bin\Release\CreateContour.pdb
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\ContourGui.Form1.resources
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\ContourGui.Properties.Resources.resources
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\ContourGui.exe
+C:\Documents and Settings\TJ\my documents\visual studio 2010\Projects\CreateContour\ContourGui\obj\x86\Release\ContourGui.pdb
