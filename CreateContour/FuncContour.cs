@@ -224,6 +224,7 @@ namespace CreateContour
             {
                 max_val = double.NegativeInfinity;
                 min_val = double.PositiveInfinity;
+                return;
             }
 
             max_val = vals[i];
